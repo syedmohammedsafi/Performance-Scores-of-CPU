@@ -1,1 +1,2 @@
-# Performance-Scores-of-CPU
+# Capstone-Project
+Capstone Project for Naan Mudhalvan Scheme
